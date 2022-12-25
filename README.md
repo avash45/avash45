@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cybersecurity and Web development
 - 🌱 I’m currently learning Web Security and Web Development
 - 💞️ I’m looking to collaborate on projects related to CyberSecurity
-- 📫 How to reach me -IG-avash_45......... email- sriharipadma2767@gmail.com  
+- 📫 How to reach me -IG-   avash_45
 
 <!---
 avash45/avash45 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
