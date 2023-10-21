@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://kaggle.com/avash45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="avash45" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/avaneesh-shambhat/" target=_blank><p>LinkedIn</p></a>
+<a href="https://www.linkedin.com/in/avaneesh-shambhat" target=_blank><p>LinkedIn</p></a>
 <a href="https://tryhackme.com/p/avash45" target=_blank><p>TryHackMe</p></a>
 </p>
 
