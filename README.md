@@ -15,13 +15,12 @@
 
 - 📫 How to reach me **avaneesh4564@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1eWi4S96BxGaxk5jj7MXK8RjTWVXsiUJk/view](https://drive.google.com/file/d/1eWi4S96BxGaxk5jj7MXK8RjTWVXsiUJk/view)
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1xEQ9h3UvDAAskmwbWOHbQENyNebycfbP?usp=share_link](https://drive.google.com/drive/folders/1xEQ9h3UvDAAskmwbWOHbQENyNebycfbP?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://kaggle.com/avash45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="avash45" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/avaneesh-shambhat" target=_blank><p>LinkedIn</p></a>
-<a href="https://tryhackme.com/p/avash45" target=_blank><p>TryHackMe</p></a>
+<a href="https://www.linkedin.com/in/avaneesh-shambhat" target=_blank><p>LinkedIn - Avaneesh Shambhat </p></a>
+<a href="https://tryhackme.com/p/avash45" target=_blank><p>TryHackMe - avash_45</p></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
