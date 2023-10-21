@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Avaneesh Shambhat</h1>
 <h3 align="center">A Security Researcher and a web developer</h3>
 
-- 🔭 I’m currently working on **Autism detection, training and a chatbot**
+- 🔭 I’m currently working on **Autism detection Frontend website**
 
 - 🌱 I’m currently learning **ReactJs, Purple Team Pentesting**
 
