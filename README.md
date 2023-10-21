@@ -13,10 +13,6 @@
 
 - 💬 Ask me anything related to **Cyber security or Web development**
 
-- 📫 How to reach me **avaneesh4564@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1xEQ9h3UvDAAskmwbWOHbQENyNebycfbP?usp=share_link](https://drive.google.com/drive/folders/1xEQ9h3UvDAAskmwbWOHbQENyNebycfbP?usp=share_link)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/avaneesh-shambhat" target=_blank><p>LinkedIn - Avaneesh Shambhat </p></a>
